@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9abba5fd-39b5-409b-a504-d357edad0c27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/ConvertImageToByte$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/ConvertImageToByte$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Histogram/ConvertImageToByte.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Histogram/ConvertImageToByte.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hfHiZsMWXPBhNiMMiLhM5xu245" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Sort">
+    <configuration name="ConvertImageToByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertImageToByte" />
+      <module name="Histogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Histogram" />
+      <module name="Histogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort" />
+      <module name="Histogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.ConvertImageToByte" />
+        <item itemvalue="Application.Histogram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9abba5fd-39b5-409b-a504-d357edad0c27" name="Default Changelist" comment="" />
+      <created>1600395353088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600395353088</updated>
+      <workItem from="1600395355035" duration="2073000" />
+      <workItem from="1600992548746" duration="9814000" />
+      <workItem from="1601273221534" duration="49000" />
+      <workItem from="1601684519358" duration="722000" />
+      <workItem from="1601880309696" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="419" height="646" key="DebuggerActiveHint" timestamp="1600994542636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="419" height="646" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1600994542636" />
+    <state width="1878" height="261" key="GridCell.Tab.0.bottom" timestamp="1601694962380">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601684965929" />
+    <state width="1878" height="261" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1601694962380" />
+    <state width="1878" height="261" key="GridCell.Tab.0.center" timestamp="1601694962378">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601684965923" />
+    <state width="1878" height="261" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1601694962378" />
+    <state width="1878" height="261" key="GridCell.Tab.0.left" timestamp="1601694962375">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601684965922" />
+    <state width="1878" height="261" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1601694962375" />
+    <state width="1878" height="261" key="GridCell.Tab.0.right" timestamp="1601694962379">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601684965924" />
+    <state width="1878" height="261" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1601694962379" />
+    <state width="1878" height="261" key="GridCell.Tab.1.bottom" timestamp="1601694962383">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601005823730" />
+    <state width="1878" height="261" key="GridCell.Tab.1.bottom/0.23.1920.992@0.23.1920.992" timestamp="1601694962383" />
+    <state width="1878" height="261" key="GridCell.Tab.1.center" timestamp="1601694962381">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601005823728" />
+    <state width="1878" height="261" key="GridCell.Tab.1.center/0.23.1920.992@0.23.1920.992" timestamp="1601694962381" />
+    <state width="1878" height="261" key="GridCell.Tab.1.left" timestamp="1601694962380">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601005823727" />
+    <state width="1878" height="261" key="GridCell.Tab.1.left/0.23.1920.992@0.23.1920.992" timestamp="1601694962380" />
+    <state width="1878" height="261" key="GridCell.Tab.1.right" timestamp="1601694962382">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601005823729" />
+    <state width="1878" height="261" key="GridCell.Tab.1.right/0.23.1920.992@0.23.1920.992" timestamp="1601694962382" />
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600994436768">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600994436768" />
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1600994436768">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600994436768" />
+    <state x="625" y="200" key="run.anything.popup" timestamp="1601684788002">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="625" y="200" key="run.anything.popup/0.23.1920.992@0.23.1920.992" timestamp="1601684788002" />
+  </component>
+</project>
